@@ -61,7 +61,6 @@ body {
 
 #dark-mode-button:checked ~ i, .sun{
     background-color: black;
-    color: white;
 }
 
 #dark-mode-button:checked ~ .img-wrapper img {
